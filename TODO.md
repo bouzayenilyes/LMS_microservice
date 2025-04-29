@@ -1,0 +1,18 @@
+# TODO
+- [x] Add book detail view + template
+- [x] Write tests for the book detail view
+- [x] Add search functionality
+- [x] Add logging to the project
+- [x] AOP for logging
+- [x] Add validation to dto
+- [x] Add profiles for dev and prod
+- [x] Add delete books functionality [scheduled work] (Optional)
+- [x] Write tests for the delete books functionality
+- [ ] Add sort books functionality (Optional)
+- [x] Add crud for books
+- [x] Add user lists view for the librarian
+- [x] Add user detail view for the librarian
+- [x] Add reserve book functionality to the user
+- [ ] Test reserve book functionality
+- [ ] Write tests for this views
+- [x] Fix user authentication and authorization (User, Librarian)
