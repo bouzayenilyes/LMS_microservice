@@ -1,6 +1,6 @@
 FROM maven:3.9.7-sapmachine-21 as BUILDER
 ARG VERSION=0.0.1-SNAPSHOT
-LABEL authors="Nurbek Malikov"
+LABEL authors="ilyes bouzayen"
 
 WORKDIR /build/
 COPY pom.xml /build/
