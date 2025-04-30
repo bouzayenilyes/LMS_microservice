@@ -22,16 +22,6 @@ This project involves the development of a web application for library managemen
 3. The system should be able to generate reports/notifications on user/librarian activity and book circulation.
 4. Test coverage ~60-70%.
 
-## Use Case Diagram
-![image](https://github.com/bouzayenilyes/LMS_microservice/assets/65078035/4bb52340-84f9-4ab4-84fc-dce8a9d0c8a8)
-
-## UML Diagram
-![image](https://github.com/bouzayenilyes/LMS_microservice/assets/65078035/afc692b4-f971-4aea-abba-42ef9dfece3c)
-
-## ER Diagram
-![image](https://github.com/bouzayenilyes/LMS_microservice/assets/65078035/ae2210fd-0f3f-471a-8cc5-bc7742fec40f)
-![image](https://github.com/bouzayenilyes/LMS_microservice/assets/65078035/cb81d075-f90e-4554-a49f-5f925f9a7135)
-
 ## Interface Design
 [https://www.figma.com/design/KlVV8mZH1lXUlx9r7Il89l/Library-Management-System-Design-EPAM?node-id=0-1&t=EsGNGrl2Wh2LkDpF-1](https://www.figma.com/design/UzabYLSnSbD1LY9unQSy3C/Untitled?node-id=0-1&p=f&t=K8m1YjDnWKhBoKFQ-0)
 
